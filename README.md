@@ -5,3 +5,5 @@
 
 - Some file may require csv files. Their data is response of a survey.<br> 
 To protect respondents' privacy, I do not upload these csv files.
+
+- machine_learning_on_drive_simulator.R works only on windows because of file system
